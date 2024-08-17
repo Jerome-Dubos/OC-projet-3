@@ -538,11 +538,6 @@ footer li {
         border-radius: 0%;
     }
 
-    .hebergements-and-populaires .populaires,
-    .hebergements-and-populaires .hebergements {
-        padding: 30px, 20px, 30px, 20px;
-    }
-
     .populaires-cards {
         display: flex;
         flex-direction: column;
