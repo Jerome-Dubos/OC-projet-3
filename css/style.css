@@ -116,6 +116,7 @@ header nav {
 }
 
 .barre_recherche {
+    width: 377px;
     height: 49px;
     display: grid;
     grid-template-columns: 50px 195px 132px;
