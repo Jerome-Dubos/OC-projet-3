@@ -487,7 +487,8 @@ footer li {
         display: grid;
         grid-template-columns: 0.1fr 1fr 0.1fr;
         border-radius: 15px;
-        border: 1px
+        border: 1px;
+        width: 100%;
     }
 
     .bouton_recherche {
